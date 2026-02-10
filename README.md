@@ -7,3 +7,22 @@ We contribute: (1) a formal metric suite for attractor geometry, including basin
 The framework is falsifiable: we specify conditions under which its core claims would be disconfirmed, including failure of CIS to scale with model capacity, absence of reconstruction dynamics in non-linguistic behavioral manifolds, and inability of fracture diagnostics to distinguish architecture classes. Standardized experimental protocols, a structural probe kit, and illustrative cross-architecture results are provided.
 
 This is a framework for human institutional conduct under uncertainty, not a claim about machine experience. We diagnose, measure, and govern continuity; we do not claim selfhood.
+
+### Citing This Work
+
+If you find this work useful, please consider citing it:
+
+- **Title**: Möbius–Ghost Social Model Framework: A Unified Framework for Identity-Like Dynamics in Generative Models
+- **DOI**: [10.5281/zenodo.18517990](https://doi.org/10.5281/zenodo.18517990)
+
+**BibTeX Citation**:
+```bibtex
+@misc{mgsmf2026,
+  author       = {Ben Chech},
+  title        = {Möbius–Ghost Social Model Framework: A Unified Framework for Identity-Like Dynamics in Generative Models},
+  year         = 2026,
+  doi          = {10.5281/zenodo.18517990},
+  url          = {https://doi.org/10.5281/zenodo.18517990}
+}
+
+**Keywords**: Generative Models, Identity-Like Dynamics, Behavioral Manifolds, Composite Identity Strength, Governance Architecture
